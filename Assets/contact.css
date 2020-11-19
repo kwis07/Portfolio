@@ -9,11 +9,15 @@ body {
     background-color:black;
 }
 
+
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: rgb(105, 25, 233);
+    background-color: rgb(6, 5, 8);
     color: #ffffff;
+    overflow: hidden;
+    background-color: #333;
 }
 
 .header h1 {
@@ -61,8 +65,8 @@ p {
 }
 
 .container {
-    margin-top: 20px;
-    display: inline-block;
+    margin-top: 50px;
+    position: relative;
     
 
 }
@@ -70,3 +74,4 @@ p {
 .card1 {
     margin-left: 25px;
 }
+
